@@ -42,4 +42,4 @@ order by
     2 desc 
 
 The output of the payment_funnel_stages.sql query is available here:  
-👉 [results/funnel.csv](results_funnel.csv)
+👉 (results_funnel.csv) 
