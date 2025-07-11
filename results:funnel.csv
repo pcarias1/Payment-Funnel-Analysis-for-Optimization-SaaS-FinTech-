@@ -1,0 +1,21 @@
+PAYMENT_FUNNEL_STAGE,ORDER_YEAR,NUM_SUBS
+Payment Processing Error with Vendor,2024-01-01,1
+Payment Submitted,2024-01-01,2
+Complete,2024-01-01,3
+,2024-01-01,1
+Payment Widget Opened,2024-01-01,1
+User has no started payment process,2024-01-01,4
+User has no started payment process,2023-01-01,5
+Complete,2023-01-01,3
+Payment Processing Error with Vendor,2023-01-01,2
+Payment Widget Opened,2023-01-01,2
+Payment Entered,2023-01-01,1
+Payment Entered,2022-01-01,1
+User Error with Payment Submission,2022-01-01,2
+User has no started payment process,2022-01-01,10
+Complete,2022-01-01,6
+Payment Processing Error with Vendor,2022-01-01,2
+Payment Widget Opened,2022-01-01,4
+,2022-01-01,1
+Payment Submitted,2022-01-01,3
+User has no started payment process,2019-01-01,5
