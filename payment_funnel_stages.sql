@@ -41,5 +41,5 @@ group by
 order by 
     2 desc 
 
-The output of the payment_funnel_stages.sql query is available here:  
-👉 (results_funnel.csv) 
+--The output of the payment_funnel_stages.sql query is available here:  
+--👉 (results_funnel.csv) 
