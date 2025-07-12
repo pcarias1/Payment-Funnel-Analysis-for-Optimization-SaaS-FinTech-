@@ -1,0 +1,19 @@
+with error_subs as(
+select
+    distinct subscription_id -- it techincally possible for subs ID to hit an error multiple times, but we don’t want to overcount those and have dup overcounting 
+from 
+    public.payment_status_log
+where 
+    status_id =0 
+)
+select 
+    count(err.subscription_id) * 100 / count (subs.subscription_id) as perc_subs_hit_error
+from    
+    public.subscriptions subs 
+left join
+    error_subs err
+    on subs.subscription_id = err.subscription_id
+
+--Result 
+--PERC_SUBS_HIT_ERROR 
+--16.949153 
