@@ -22,7 +22,7 @@ The finance and product teams flagged a drop in conversions—many users initiat
    -reated max_status_reached and payment_funnel_stages CTEs to track user progression.
    -Used CASE statements to classify funnel stages and errors.
 
-2. Computed conversion and workflow completion rates:
+2. Conversion Rate and Workflow Completion Rates:
    - Conversion Rate: Percentage of total subs who completed payment.
    - Workflow Completion Rate: Percentage of subscribers who started payment and completed it.
 
