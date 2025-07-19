@@ -1,4 +1,5 @@
-# Payment-Funnel-Analysis
+# Payment-Funnel-Analysis-for-Subscription-Optimization
+
 
 ## Executive Summary
 Using SQL and Snowflake, I conducted a payment funnel analysis to identify major drop-off points in the subscription process for a SaaS company. The analysis revealed that a significant number of users either abandon the process early or encounter errors during payment submission. These inefficiencies contribute to lower-than-expected conversion rates and revenue loss.
