@@ -20,8 +20,8 @@ The finance and product teams flagged a drop in conversions—many users initiat
 
 ### Methodology
 1. SQL Analysis (Snowflake):
-   -reated max_status_reached and payment_funnel_stages CTEs to track user progression.
-   -Used CASE statements to classify funnel stages and errors.
+   - reated max_status_reached and payment_funnel_stages CTEs to track user progression.
+   - Used CASE statements to classify funnel stages and errors.
 
 2. Conversion Rate and Workflow Completion Rate:
    - Conversion Rate: Percentage of total subs who completed payment.
