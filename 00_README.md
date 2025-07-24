@@ -2,10 +2,10 @@
 
 
 ## Executive Summary
-Using SQL and Snowflake, I conducted a payment funnel analysis to identify major drop-off points in the subscription process for a SaaS company. The analysis revealed that a significant number of users either abandon the process early or encounter errors during payment submission. These inefficiencies contribute to lower-than-expected conversion rates and revenue loss.
+Using SQL and Snowflake, I conducted a payment funnel analysis to identify major drop-off points in the subscription process for a SaaS company. The analysis revealed that a significant number of users either abandon the process early or encounter errors during payment submission. These inefficiencies contribute to lower than expected conversion rates and revenue loss.
 To improve user conversion and reduce friction in the payment process, I recommend:
 1. Enhancing frontend user experience to minimize early abandonment.
-2. Investigating vendor-side issues causing failed transactions.
+2. Investigating vendor side issues causing failed transactions.
 3. Implementing targeted interventions based on user error patterns.
 
 ### Business Problem
@@ -44,7 +44,7 @@ The finance and product teams flagged a drop in conversions—many users initiat
 ### Tools & Skills
 - SQL (Snowflake): CTEs, CASE, aggregation, LEFT JOINs, error flag logic
 - Data Analysis: Funnel breakdowns, conversion calculations, error segmentation
-- Visualization: Stacked bar chart to compare error-based vs. error-free subs
+- Visualization: Stacked bar chart to compare error based vs. error free subs
 
 ### Results & Business Recommendations
 Conversion Rate: 20.34%
@@ -68,7 +68,7 @@ Add better logging to differentiate between frontend and vendor errors
 Track abandoned sessions explicitly with new status codes.
 
 ## Next Steps
-- Build dashboards to monitor real-time funnel metrics.
+- Build dashboards to monitor real time funnel metrics.
 - Collaborate with vendor tech teams to reduce backend failure rates
 - Look at different types of users (age or location) to see how they behave in the payment process.
 - Try out different versions of the payment screen to see which one helps more people finish paying.
