@@ -9,7 +9,7 @@ To improve user conversion and reduce friction in the payment process, I recomme
 3. Implementing targeted interventions based on user error patterns.
 
 ### Business Problem
-The finance and product teams flagged a drop in conversions—many users initiated subscriptions but failed to complete payment. These unconverted subscriptions posed a significant revenue gap. The task was to:
+The finance and product teams flagged a drop in conversions many users initiated subscriptions but failed to complete payment. These unconverted subscriptions posed a significant revenue gap. The task was to:
 - Understand where users fall off in the subscription funnel.
 - Quantify the completion and error rates.
 - Propose solutions to increase conversion.
