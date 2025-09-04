@@ -1,4 +1,4 @@
-# Payment Funnel Analysis for Subscription Optimization
+# Payment Funnel Analysis for Subscription Optimization for SaaS FinTech
 
 
 ## Executive Summary
